@@ -6,4 +6,6 @@ Top 3 des pays que je souhaite visiter
 - Nouvelle Zéland
 
 
-![papillon](https://images.freeimages.com/images/large-previews/a3c/butterfly-1-1342546.jpg)
+![Pérou](img/Perou.jpg)
+![Colombie](img/Colombie.jpg)
+![Nouvelle Zeland](img/Nouvelle_Zeland.jpg)
